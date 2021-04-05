@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.sennecoolgames.CalculatorTest"
+        version   = "1.0.0">
+
+    <name>Calculator test</name>
+
+    <description>
+        calculator test made in scratch.
+    </description>
+
+    <author href="sennecoolgames.com" email="sennevanwesemael@gmail.com">
+        Sennecoolgames
+    </author>
+
+    <icon src="icon.png" />
+
+</widget>
